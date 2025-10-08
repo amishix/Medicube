@@ -7,10 +7,11 @@
 ## Demo & Prototype  
 
 <p align="center">
-  <img src="assets/medicube-demo.gif" width="400" alt="MediCube Prototype Demo">
+  <img src="Demo-Prototype/App-Demo.png" width="400" alt="MediCube Mobile App Demo">
+  <img src="Demo-Prototype/Medicube-Demo.png" width="400" alt="MediCube IoT Prototype Demo">
 </p>
 
-> 🎞️ *Preview the MediCube system in action – real-time sensor monitoring, Firebase logging, and automated pump control.*
+
 
 ---
 
