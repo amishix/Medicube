@@ -1,0 +1,17 @@
+# Tell GitHub Linguist what to count (and what to ignore)
+
+# Ignore documentation and frontend files
+*.md linguist-documentation=true
+*.json linguist-documentation=true
+*.js linguist-documentation=true
+*.jsx linguist-documentation=true
+*.html linguist-documentation=true
+*.css linguist-documentation=true
+
+# Explicitly mark Arduino and C++ files as source
+*.ino linguist-language=C++
+*.cpp linguist-language=C++
+*.h linguist-language=C
+*.c linguist-language=C
+
+Fix language detection: prioritise C++ and ignore docs
