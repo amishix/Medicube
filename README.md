@@ -8,7 +8,12 @@
 
 <p align="center">
   <img src="Demo-Prototype/App-Demo.png" width="400" alt="MediCube Mobile App Demo">
-  <img src="Demo-Prototype/Medicube-Demo.png" width="400" alt="MediCube IoT Prototype Demo">
+</p>
+
+<p align="center">
+  <img src="Demo-Prototype/setup1.png" width="300" alt="MediCube Hardware Setup - View 1">
+  <img src="Demo-Prototype/setup2.png" width="300" alt="MediCube Hardware Setup - View 2">
+  <img src="Demo-Prototype/setup3.png" width="300" alt="MediCube Hardware Setup - View 3">
 </p>
 
 
